@@ -1,0 +1,11 @@
+# Jetbrains IDE
+/.idea/
+
+# Python stuff
+*.pyc
+
+# VSCode
+.vscode
+
+# Data folder
+data
